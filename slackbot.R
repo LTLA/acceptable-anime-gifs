@@ -1,4 +1,4 @@
-choices <- read.csv("acceptable.tsv", header=FALSE)
+choices <- read.csv("acceptable.csv", header=FALSE)
 current <- sample(acceptable[,1], 1)
 
 hook <- commandArgs(trailing=TRUE)[1]
