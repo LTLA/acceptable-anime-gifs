@@ -253,7 +253,6 @@
   },
   {
     "show_id": 10495,
-    "show_name": "Yuru Yuri",
     "description":"Kyoko trying to knock a single tangerine off a stack.",
     "sentiment": ["fail"],
     "url": "https://media.tenor.com/images/c046536502567333819dc324c75e765d/tenor.gif",
@@ -337,7 +336,7 @@
     "rating":0
   },
   {
-    "show_id":"34798",
+    "show_id":34798,
     "description":"Nadeshiko and Rin drinking hot chocolate.",
     "sentiment": ["relaxed"],
     "url": "https://i.imgur.com/V7iDsWU.gif",
@@ -345,7 +344,7 @@
   },
   {
     "show_id":17549,
-    "description":"Rin playing the recorder with Komari in the tanuki suit.",
+    "description":"Renge playing the recorder with Komari in the tanuki suit.",
     "sentiment": ["celebrate"],
     "url": "https://steamuserimages-a.akamaihd.net/ugc/431571327805824751/01B63867EF98F0125905037E0A37F03A1E66D79D/",
     "rating":0
@@ -393,7 +392,7 @@
     "rating":1
   },
   {
-    "show_id":"34798",
+    "show_id":34798,
     "description":"Rin being rammed by a dog.",
     "sentiment": ["fail", "attack"],
     "url": "https://66.media.tumblr.com/0590ed7e83fc28a5257f244d6f10eac2/tumblr_p4bymqDjkb1tx45yjo1_400.gifv",
