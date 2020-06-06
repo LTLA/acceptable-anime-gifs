@@ -156,42 +156,42 @@
   {
     "show_id": 33206,
     "description":"Tooru giving a thumbs up.",
-    "sentiment": ["thumbs up"],
+    "sentiment": ["thumbs_up"],
     "url": "https://media.tenor.com/images/e6561660fd1600c893c6f899678a9836/tenor.gif",
     "rating":0
   },
   {
     "show_id":30355,
     "description":"Mao giving a thumbs up.",
-    "sentiment": ["thumbs up"],
+    "sentiment": ["thumbs_up"],
     "url": "https://i.gifer.com/Ojj8.gif",
     "rating":0
   },
   {
     "show_id":416,
     "description":"Porco giving a thumbs up.",
-    "sentiment": ["thumbs up"],
+    "sentiment": ["thumbs_up"],
     "url": "https://24.media.tumblr.com/tumblr_llko428Rip1qehmh1o1_500.gif",
     "rating":0
   },
   {
     "show_id": 10495,
     "description":"Kyoko giving a thumbs up.",
-    "sentiment": ["thumbs up"],
+    "sentiment": ["thumbs_up"],
     "url": "https://adventuresofclumsyrella.files.wordpress.com/2018/04/anime-thumbs-up-gif-25.gif?w=367",
     "rating":0
   },
   {
     "show_id": 30831,
     "description":"The entire crew giving a thumbs up from the opening.",
-    "sentiment": ["thumbs up"],
+    "sentiment": ["thumbs_up"],
     "url": "https://i.gifer.com/5HhN.gif",
     "rating":0
   },
   {
     "show_id":1887,
     "description":"The main crew giving a thumbs up from the opening.",
-    "sentiment": ["thumbs up"],
+    "sentiment": ["thumbs_up"],
     "url": "https://i.gifer.com/XluS.gif",
     "rating":0
   },
@@ -429,7 +429,7 @@
   {
     "show_id":16353,
     "description":"Riko giving a thumbs up, of a sort.",
-    "sentiment": ["thumbs up"],
+    "sentiment": ["thumbs_up"],
     "url": "https://media1.tenor.com/images/f8539f656d2ed90be7cd3bbe95d263d2/tenor.gif?itemid=6015959",
     "rating":0
   },
@@ -491,7 +491,7 @@
   },
   {
     "show_id": 33206,
-    "description":"Toaru shrugging in a smug way.",
+    "description":"Tooru shrugging in a smug way.",
     "sentiment":["shrug"],
     "url":"https://media1.tenor.com/images/8bf3267e5f0a00eef84f9fbb6ac4ac1b/tenor.gif?itemid=13119038",
     "rating":0
