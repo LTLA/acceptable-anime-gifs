@@ -8,17 +8,12 @@ name: deploy-rest
 jobs:
   deploy-rest:
     runs-on: ubuntu-latest
+    container: bioconductor/bioconductor_docker:RELEASE_3_11
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
         with:
           persist-credentials: false
-      - name: Set up R
-        uses: r-lib/actions/setup-r@master
-      - name: Install dependencies
-        run: |
-          install.packages(c("jsonlite"), Ncpus=2L)
-        shell: Rscript {0}
       - name: Creating endpoints
         run: Rscript deploy.R
       - name: Deploy to Pages
