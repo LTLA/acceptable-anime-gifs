@@ -90,5 +90,41 @@
   {
     "show_id":12291,
     "show_name": "Acchi Kocchi (TV)"
+  },
+  {
+    "show_id":14741,
+    "show_name":"Chuunibyou demo Koi ga Shitai!"
+  },
+  {
+    "show_id":10711,
+    "show_name": "Plastic Neesan"
+  },
+  {
+    "show_id":17549,
+    "show_name":"Non Non Biyori"
+  },
+  {
+    "show_id":918,
+    "show_name":"Gintama"
+  },
+  {
+    "show_id":37614,
+    "show_name":"Hitoribocchi no Marumaru Seikatsu"
+  },
+  {
+    "show_id":18153,
+    "show_name":"Kyoukai no Kanata"
+  },
+  {
+    "show_id":"34798",
+    "show_name":"Yuru Camp△"
+  },
+  {
+    "show_id":477,
+    "show_name":"Aria_the_Animation"
+  },
+  {
+    "show_id":6213,
+    "show_name":"Toaru Kagaku no Railgun"
   }
 ]

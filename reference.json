@@ -245,183 +245,263 @@
     "rating":0
   },
   {
-    "show_name": "Chuunibyou",
+    "show_id":14741,
+    "description":"Rikka missing a catch on a paper dart.",
     "sentiment": ["fail"],
-    "url": "https://i.pinimg.com/originals/24/04/c9/2404c907f1daaa77a07eb8ca97554ecd.gif"
+    "url": "https://i.pinimg.com/originals/24/04/c9/2404c907f1daaa77a07eb8ca97554ecd.gif",
+    "rating":0
   },
   {
+    "show_id": 10495,
     "show_name": "Yuru Yuri",
+    "description":"Kyoko trying to knock a single tangerine off a stack.",
     "sentiment": ["fail"],
-    "url": "https://media.tenor.com/images/c046536502567333819dc324c75e765d/tenor.gif"
+    "url": "https://media.tenor.com/images/c046536502567333819dc324c75e765d/tenor.gif",
+    "rating":0
   },
   {
-    "show_name": "K-on",
+    "show_id": 5680,
+    "description":"Mio stretching Ritsu's face.",
     "sentiment": ["attack"],
-    "url": "https://media1.tenor.com/images/0258c0d29159494fd63eea0e001eda39/tenor.gif?itemid=4874936"
+    "url": "https://media1.tenor.com/images/0258c0d29159494fd63eea0e001eda39/tenor.gif?itemid=4874936",
+    "rating":0
   },
   {
-    "show_name": "Nichijou",
+    "show_id":10165,
+    "description":"Yuuko missing the point of jump rope.",
     "sentiment": ["fail"],
-    "url": "https://image.myanimelist.net/ui/sefOExMnsDEhRAOFE2OLRfRw-X5yTWsrWkFiUf6zHQUXLINoSQoMrmRFYuB5FA5vf4L93xWKuGx2yN8uJo_QYw"
+    "url": "https://image.myanimelist.net/ui/sefOExMnsDEhRAOFE2OLRfRw-X5yTWsrWkFiUf6zHQUXLINoSQoMrmRFYuB5FA5vf4L93xWKuGx2yN8uJo_QYw",
+    "rating":0
   },
   {
-    "show_name": "GochiUsa",
-    "sentiment": ["celebrate"],
-    "url": "https://media1.tenor.com/images/eb9f10615cf0965df45cacfef9fe88e6/tenor.gif?itemid=16351028"
+    "show_id": 21273,
+    "description":"Cocoa jumping from side to side.",
+    "sentiment": ["excited"],
+    "url": "https://media1.tenor.com/images/eb9f10615cf0965df45cacfef9fe88e6/tenor.gif?itemid=16351028",
+    "rating":0
   },
   {
-    "show_name": "Plastic nee-san",
+    "show_id":10711,
+    "description":"Hazuki slamming Iroe into a wall.",
     "sentiment": ["attack"],
-    "url": "https://i.imgur.com/8pFCDrn.gif"
+    "url": "https://i.imgur.com/8pFCDrn.gif",
+    "rating":0
   },
   {
-    "show_name": "Non non biyori",
+    "show_id":17549,
+    "description":"Renge doing her weird shrugging pose.",
     "sentiment": ["shrug"],
-    "url": "https://i.imgur.com/7PbuClC.gif"
+    "url": "https://i.imgur.com/7PbuClC.gif",
+    "rating":0
   },
   {
-    "show_name": "Gintama",
+    "show_id":918,
+    "description":"Gin and Kagura pigging out on sweets.",
     "sentiment": ["eating"],
-    "url": "https://thumbs.gfycat.com/AnguishedBothBlackcrappie-small.gif"
+    "url": "https://thumbs.gfycat.com/AnguishedBothBlackcrappie-small.gif",
+    "rating":0
   },
   {
-    "show_name": "Miss Kobayashi's Dragon Maid",
+    "show_id": 33206,
+    "description":"Kanna eating a cicada.",
     "sentiment": ["eating"],
-    "url": "https://media1.tenor.com/images/674df468be43c062b27b9c773528f54e/tenor.gif?itemid=8980006"
+    "url": "https://media1.tenor.com/images/674df468be43c062b27b9c773528f54e/tenor.gif?itemid=8980006",
+    "rating":0
   },
   {
-    "show_name": "Hitoribocchi",
+    "show_id":37614,
+    "description":"Aru trying to perform a tennis serve.",
     "sentiment": ["fail"],
-    "url": "https://thumbs.gfycat.com/PaleElatedBellsnake-size_restricted.gif"
+    "url": "https://thumbs.gfycat.com/PaleElatedBellsnake-size_restricted.gif",
+    "rating":0
   },
   {
-    "show_name": "Hitoribocchi",
+    "show_id":37614,
+    "description":"Naru hitting Aru on the head.",
     "sentiment": ["attack"],
-    "url": "https://i.imgur.com/Rkb0uV8.gif"
+    "url": "https://i.imgur.com/Rkb0uV8.gif",
+    "rating":0
   },
   {
-    "show_name": "Lucky Star",
+    "show_id":1887,
+    "description":"Konata drifting off to sleep in class.",
     "sentiment": ["bored"],
-    "url": "https://i.imgur.com/y6IKiaR.gif"
+    "url": "https://i.imgur.com/y6IKiaR.gif",
+    "rating":0
   },
   {
-    "show_name": "Kyoukai no kanata",
-    "sentiment": ["love"],
-    "url": "https://i.imgur.com/Pcv65cs.gif"
+    "show_id":18153,
+    "description":"Mitsuki and Hiroomi hugging Mirai and Akihito, respectively.",
+    "sentiment": ["love", "attack"],
+    "url": "https://i.imgur.com/Pcv65cs.gif",
+    "rating":0
   },
   {
-    "show_name": "Yuru camp",
+    "show_id":"34798",
+    "description":"Nadeshiko and Rin drinking hot chocolate.",
     "sentiment": ["relaxed"],
-    "url": "https://i.imgur.com/V7iDsWU.gif"
+    "url": "https://i.imgur.com/V7iDsWU.gif",
+    "rating":0
   },
   {
-    "show_name": "Non non biyori",
+    "show_id":17549,
+    "description":"Rin playing the recorder with Komari in the tanuki suit.",
     "sentiment": ["celebrate"],
-    "url": "https://steamuserimages-a.akamaihd.net/ugc/431571327805824751/01B63867EF98F0125905037E0A37F03A1E66D79D/"
+    "url": "https://steamuserimages-a.akamaihd.net/ugc/431571327805824751/01B63867EF98F0125905037E0A37F03A1E66D79D/",
+    "rating":0
   },
   {
-    "show_name": "Non non biyori",
+    "show_id":17549,
+    "description":"Komari crying.",
     "sentiment": ["crying"],
-    "url": "https://66.media.tumblr.com/5c975b28495e8524499eeb9cf9297255/tumblr_p76z0heVxD1uhe17yo1_400.gifv"
+    "url": "https://66.media.tumblr.com/5c975b28495e8524499eeb9cf9297255/tumblr_p76z0heVxD1uhe17yo1_400.gifv",
+    "rating":0
   },
   {
-    "show_name": "Non non biyori",
+    "show_id":17549,
+    "description":"All of the main cast clapping inside an igloo.",
     "sentiment": ["celebrate"],
-    "url": "https://pa1.narvii.com/5899/5b011f85f812182106d555e1aed048621533826d_00.gif"
+    "url": "https://pa1.narvii.com/5899/5b011f85f812182106d555e1aed048621533826d_00.gif",
+    "rating":0
   },
   {
-    "show_name": "Lucky Star",
-    "sentiment": ["celebrate"],
-    "url": "https://data.whicdn.com/images/309879942/original.gif?t=1522457127"
+    "show_id":1887,
+    "description":"Konata jumping up and down.",
+    "sentiment": ["excited"],
+    "url": "https://data.whicdn.com/images/309879942/original.gif?t=1522457127",
+    "rating":0
   },
   {
-    "show_name": "Lucky Star",
+    "show_id":1887,
+    "description":"Patricia and Konata making a heart with their hands.",
     "sentiment": ["love"],
-    "url": "https://i.kym-cdn.com/photos/images/original/000/790/805/efe.gif"
+    "url": "https://i.kym-cdn.com/photos/images/original/000/790/805/efe.gif",
+    "rating":0
   },
   {
-    "show_name": "Lucky Star",
+    "show_id":1887,
+    "description":"Tsukasa trying to spike during a volleyball game.",
     "sentiment": ["fail"],
-    "url": "https://steamuserimages-a.akamaihd.net/ugc/41975715024346550/0FBE41F49F6D3C59134D4D80D26BED7B095CB1F8/"
+    "url": "https://steamuserimages-a.akamaihd.net/ugc/41975715024346550/0FBE41F49F6D3C59134D4D80D26BED7B095CB1F8/",
+    "rating":0
   },
   {
-    "show_name": "Lucky Star",
+    "show_id":1887,
+    "description":"The ending of the cheerleader practice run.",
     "sentiment": ["celebrate"],
-    "url": "https://24.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif"
+    "url": "https://24.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif",
+    "rating":1
   },
   {
-    "show_name": "Yuru camp",
+    "show_id":"34798",
+    "description":"Rin being rammed by a dog.",
+    "sentiment": ["fail", "attack"],
+    "url": "https://66.media.tumblr.com/0590ed7e83fc28a5257f244d6f10eac2/tumblr_p4bymqDjkb1tx45yjo1_400.gifv",
+    "rating":0
+  },
+  {
+    "show_id":12815,
+    "description":"Panda lazing around and waiting for food.",
+    "sentiment": ["eating", "bored"],
+    "url": "https://38.media.tumblr.com/543fc4f39fd25035ea8dd9fcae4de0bc/tumblr_n57l6qso421rb2cnyo1_500.gif",
+    "rating":0
+  },
+  {
+    "show_id":12815,
+    "description":"Panda failing to do jump rope.",
     "sentiment": ["fail"],
-    "url": "https://66.media.tumblr.com/0590ed7e83fc28a5257f244d6f10eac2/tumblr_p4bymqDjkb1tx45yjo1_400.gifv"
+    "url": "https://i.imgur.com/jJZoCQw.gif",
+    "rating":0
   },
   {
-    "show_name": "Shirokuma Cafe",
-    "sentiment": ["eating"],
-    "url": "https://38.media.tumblr.com/543fc4f39fd25035ea8dd9fcae4de0bc/tumblr_n57l6qso421rb2cnyo1_500.gif"
-  },
-  {
-    "show_name": "Shirokuma Cafe",
-    "sentiment": ["fail"],
-    "url": "https://i.imgur.com/jJZoCQw.gif"
-  },
-  {
-    "show_name": "Shirokuma Cafe",
+    "show_id":12815,
+    "description":"Panda relaxing on the ground while his mother cleans.",
     "sentiment": ["relaxed"],
-    "url": "https://welcometobridgetown.files.wordpress.com/2018/10/polar-bear-cafe-relaxing.gif"
+    "url": "https://welcometobridgetown.files.wordpress.com/2018/10/polar-bear-cafe-relaxing.gif",
+    "rating":0
   },
   {
-    "show_name": "Love Lab",
+    "show_id":16353,
+    "description":"Natsuo jumping around.",
     "sentiment": ["excited"],
-    "url": "https://media0.giphy.com/media/JXibbAa7ysN9K/source.gif"
+    "url": "https://media0.giphy.com/media/JXibbAa7ysN9K/source.gif",
+    "rating":0
   },
   {
-    "show_name": "Re:Zero",
-    "sentiment": ["celebrate"],
-    "url": "https://media4.giphy.com/media/10p5ICVJF5IjxC/giphy.gif"
-  },
-  {
-    "show_name": "Love Lab",
+    "show_id":16353,
+    "description":"Riko giving a thumbs up, of a sort.",
     "sentiment": ["thumbs up"],
-    "url": "https://media1.tenor.com/images/f8539f656d2ed90be7cd3bbe95d263d2/tenor.gif?itemid=6015959"
+    "url": "https://media1.tenor.com/images/f8539f656d2ed90be7cd3bbe95d263d2/tenor.gif?itemid=6015959",
+    "rating":0
   },
   {
-    "show_name": "Chuunibyou",
+    "show_id":14741,
+    "description":"Yuuta hitting Rikka with the height measuring thing.",
     "sentiment": ["attack"],
-    "url": "https://emmaslaysdragons.files.wordpress.com/2014/07/ihkmvnb5qiyry.gif"
+    "url": "https://emmaslaysdragons.files.wordpress.com/2014/07/ihkmvnb5qiyry.gif",
+    "rating":0
   },
   {
-    "show_name": "Barakamon",
+    "show_id":22789,
+    "description":"Naru harassing Handa with her toy car.",
     "sentiment": ["attack"],
-    "url": "https://media1.tenor.com/images/74986bcbee5c4121fecac94c59502578/tenor.gif?itemid=4991199"
+    "url": "https://media1.tenor.com/images/74986bcbee5c4121fecac94c59502578/tenor.gif?itemid=4991199",
+    "rating":0
   },
   {
-    "show_name": "Toradora",
+    "show_id":4224,
+    "description":"Taiga jumping up and down while Minori watches.",
     "sentiment": ["excited"],
-    "url": "https://media3.giphy.com/media/3Cm8cxtSHqu6Q/source.gif"
+    "url": "https://media3.giphy.com/media/3Cm8cxtSHqu6Q/source.gif",
+    "rating":0
   },
   {
-    "show_name": "Miss Kobayashi's Dragon Maid",
+    "show_id": 33206,
+    "description":"Kanna running on the spot.",
     "sentiment": ["excited"],
-    "url": "https://media1.tenor.com/images/1f31cea234ea925f59260e4fe679457c/tenor.gif?itemid=8037671"
+    "url": "https://media1.tenor.com/images/1f31cea234ea925f59260e4fe679457c/tenor.gif?itemid=8037671",
+    "rating":0
   },
   {
-    "show_name": "Yuru Yuri",
+    "show_id": 10495,
+    "description":"Akari hitting Kyoko in the face while serving at table tennis.",
     "sentiment": ["fail"],
-    "url": "https://66.media.tumblr.com/a8ba6c71b3050f3c08446c953663f2b6/tumblr_oekibpb6ib1vveadmo1_400.gifv"
+    "url": "https://66.media.tumblr.com/a8ba6c71b3050f3c08446c953663f2b6/tumblr_oekibpb6ib1vveadmo1_400.gifv",
+    "rating":0
   },
   {
-    "show_name": "GochiUsa",
+    "show_id": 21273,
+    "description":"Sharo feeling some love towards Megu.",
     "sentiment": ["love"],
-    "url": "https://giffiles.alphacoders.com/184/184289.gif"
+    "url": "https://giffiles.alphacoders.com/184/184289.gif",
+    "rating":0
   },
   {
-    "show_name": "Aria the Animation",
+    "show_id":477,
+    "description":"Alicia pranking Akari with an ice block.",
     "sentiment": ["attack"],
-    "url": "https://media1.tenor.com/images/71b5acf53aeb299108f6e632709efbbc/tenor.gif?itemid=10632816"
+    "url": "https://media1.tenor.com/images/71b5acf53aeb299108f6e632709efbbc/tenor.gif?itemid=10632816",
+    "rating":0
   },
   {
-    "show_name": "Kiniro Mosaic",
+    "show_id":16732,
+    "description":"Karen glomping Alice.",
     "sentiment": ["love"],
-    "url": "https://media1.tenor.com/images/4ba5c04950f4a7dfc18646d372619212/tenor.gif?itemid=14566836"
+    "url": "https://media1.tenor.com/images/4ba5c04950f4a7dfc18646d372619212/tenor.gif?itemid=14566836",
+    "rating":0
+  },
+  {
+    "show_id": 33206,
+    "description":"Toaru shrugging in a smug way.",
+    "sentiment":["shrug"],
+    "url":"https://media1.tenor.com/images/8bf3267e5f0a00eef84f9fbb6ac4ac1b/tenor.gif?itemid=13119038",
+    "rating":0
+  },
+  {
+    "show_id":6213,
+    "description":"Kuroko hitting her head on the table.",
+    "sentiment":["fail"],
+    "url":"https://media1.tenor.com/images/f478dc907337344dd0f371f0ededf6b5/tenor.gif?itemid=5659602",
+    "rating":0
   }
 ]
