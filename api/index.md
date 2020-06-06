@@ -15,16 +15,35 @@ Returns a dictionary containing information about a particular GIF, including:
 - `rating`, an integer specifying how safe for work the GIF is.
 
 ```
+GET /entry
+```
+
+Returns an integer containing the total number of GIF entries.
+GIF identifiers are guaranteed to be consecutive integers from 1 to this number.
+
+```
 GET /show/{show_id}
 ```
 
 Returns an integer array containing the identifiers for all GIFs in a particular show.
 
 ```
+GET /show
+```
+
+Returns an integer array containing all available show identifiers.
+
+```
 GET /sentiment/{sentiment}
 ```
 
 Returns an integer array containing the identifiers for all GIFs tagged with a particular sentiment.
+
+```
+GET /sentiment
+```
+
+Returns a string array containing all available sentiments.
 
 ```
 GET /rating/{rating}

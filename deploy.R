@@ -21,6 +21,8 @@ for (i in seq_along(ref)) {
     write(out, file.path(target, "index.json"))
 }
 
+write(length(ref), file.path(entry.path, "index.json")) # the number of GIF entries.
+
 # Deploying the /sentiment endpoint.
 sent <- lapply(ref, function(x) unlist(x$sentiment))
 entries <- rep(seq_along(ref), lengths(sent))
@@ -35,6 +37,9 @@ for (s in names(entry.by.sent)) {
     write(toJSON(entry.by.sent[[s]], pretty=TRUE), file.path(target, "index.json"))
 }
 
+write(toJSON(names(entry.by.sent), pretty=TRUE), 
+    file.path(sent.path, "index.json")) # the set of unique sentiments.
+
 # Deploying the /show endpoint.
 show <- vapply(ref, function(x) unlist(x$show_id), 0L)
 entry.by.show <- split(seq_along(show), show)
@@ -47,6 +52,8 @@ for (s in names(entry.by.show)) {
     dir.create(target, showWarnings=FALSE)
     write(toJSON(entry.by.show[[s]], pretty=TRUE), file.path(target, "index.json"))
 }
+
+write(toJSON(unique(show), pretty=TRUE), file.path(show.path, "index.json")) # the set of shows.
 
 # Deploying the /rating endpoint.
 rating <- vapply(ref, function(x) unlist(x$rating), 0L)
