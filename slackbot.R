@@ -1,22 +1,27 @@
-choices <- read.csv("acceptable.csv", header=FALSE)
-current <- sample(choices[,3], 1)
-
 hook <- commandArgs(trailing=TRUE)[1]
 
+# Choosing a safe for work GIF.
 library(httr)
+host <- "https://ltla.github.io/acceptable-anime-gifs/"
+choices <- c(content(GET(file.path(host, "rating/0"))), content(GET(file.path(host, "rating/1")))
+chosen <- sample(unlist(choices), 1)
+info <- GET(file.path(host, "entry", chosen))
+info <- content(info)
+
+# Posting it to the designated hook.
 out <- POST(hook,
      body=sprintf('{
-    "text":"A periodic anime GIF.",
-    "blocks":[
-        {
-            "type": "image",
-            "title": {
-                "type": "plain_text",
-                "text": "Some anime to cheer you up; you deserve it."
-            },
-            "image_url": "%s",
-            "alt_text": "Gochisousama!"
-        }
-    ]
-}', current), encode='raw', content_type("json"))
+  "text":"An anime GIF.",
+  "blocks":[
+    {
+        "type": "image",
+        "title": {
+            "type": "plain_text",
+            "text": "https://myanimelist.net/anime/%s"
+        },
+        "image_url": "%s",
+        "alt_text": "%s"
+    }
+  ]
+}', info$show_id, info$url, info$description), encode='raw', content_type("json"))
 
