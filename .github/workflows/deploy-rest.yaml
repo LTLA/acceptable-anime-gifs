@@ -1,0 +1,27 @@
+on:
+  push:
+    branches:
+      - master
+
+name: deploy-rest
+
+jobs:
+  deploy-rest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Set up R
+        uses: r-lib/actions/setup-r@master
+      - name: Install dependencies
+        run: |
+          install.packages(c("jsonlite"), Ncpus=2L)
+        shell: Rscript {0}
+      - name: Creating endpoints
+        run: Rscript deploy.R
+      - name: Deploy to Pages
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
