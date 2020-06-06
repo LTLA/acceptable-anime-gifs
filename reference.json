@@ -1,0 +1,427 @@
+[
+  {
+    "show_id":5680,
+    "description":"Yui jumping up and down.",
+    "sentiment": ["excited"],
+    "url": "https://media.tenor.com/images/0588963747d633be3753fd5032c6ce13/tenor.gif",
+    "rating":0
+  },
+  {
+    "show_id":16417,
+    "description":"Anko pulling a face.",
+    "sentiment": ["insult"],
+    "url": "https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif",
+    "rating":0
+  },
+  {
+    "show_id":37999,
+    "description":"Chika dancing.",
+    "sentiment": ["excited"],
+    "url": "https://media.tenor.com/images/06f2513f98d815bfc9149179f7f37259/tenor.gif",
+    "rating":0
+  },
+  {
+    "show_id":8557,
+    "description":"Ika crying.",
+    "sentiment": ["crying"],
+    "url": "https://i.pinimg.com/originals/d6/48/c4/d648c410878fa7cc00ab5fd8bea713b3.gif",
+    "rating":0
+  },
+  {
+    "show_id": 10495,
+    "description": "Akari eating a cake whole.",
+    "sentiment": ["eating"],
+    "url": "https://imgur.com/uB35ORX.gif",
+    "rating":0
+  },
+  {
+    "show_id": 21273,
+    "description": "Cocoa, Sharo and Chiya cheering.",
+    "sentiment": ["celebrate"],
+    "url": "https://49.media.tumblr.com/d304a627de8199be92f8aeded8ffc91d/tumblr_nxmitgfJTY1rmf97co1_500.gif",
+    "rating":0
+  },
+  {
+    "show_id": 33206,
+    "description": "Kanna eating a pile of rice.",
+    "sentiment": ["eating"],
+    "url": "https://media1.tenor.com/images/aa94097e87f4386322b9609da96676d6/tenor.gif?itemid=8294804",
+    "rating":0
+  },
+  {
+    "show_id": 20507,
+    "description": "Yato and Yukine eating at a restaurant.",
+    "sentiment": ["eating"],
+    "url": "https://media.giphy.com/media/xYy3O2fGTfflS/giphy.gif",
+    "rating":0
+  },
+  {
+    "show_id": 2167,
+    "description":"Yushio trying to eat a piece of sushi.",
+    "sentiment": ["eating", "fail"],
+    "url": "https://media.giphy.com/media/moeMypqJLoS2s/giphy.gif",
+    "rating":0
+  },
+  {
+    "show_id":2890,
+    "description":"Ponyo eating ramen with Sousuke.",
+    "sentiment": ["eating"],
+    "url": "https://66.media.tumblr.com/6afdf6a0cafd374b1adaf8157799209e/tumblr_osqveeJ4UC1qzxv73o1_540.gif",
+    "rating":0
+  },
+  {
+    "show_id": 10495,
+    "description":"Kyoko eating curry.",
+    "sentiment": ["eating"],
+    "url": "https://gifimage.net/wp-content/uploads/2017/11/eating-anime-gif-9.gif",
+    "rating":0
+  },
+  {
+    "show_id":199,
+    "description":"No Face eating everything in sight.",
+    "sentiment": ["eating"],
+    "url": "https://66.media.tumblr.com/46d02caceed413e8d4a94dc6a397aedf/tumblr_ot6fzs9VFr1uxvvvzo1_400.gif",
+    "rating":1
+  },
+  {
+    "show_id":10165,
+    "description":"Hakase taking Sakamoto for a walk.",
+    "sentiment": ["fail"],
+    "url": "https://media1.tenor.com/images/ca6180262fb95f373e2808f75effecb1/tenor.gif?itemid=5631139",
+    "rating":1
+  },
+  {
+    "show_id":10165,
+    "description":"Yuuko's mom slapping her to kill a mosquito.",
+    "sentiment": ["attack"],
+    "url": "https://thumbs.gfycat.com/AllValuableJuliabutterfly-size_restricted.gif",
+    "rating":1
+  },
+  {
+    "show_id":10165,
+    "description":"Hakase and Nano enjoying the feeling of Sakamoto's paws.",
+    "sentiment": ["love"],
+    "url": "https://i.gifer.com/QhdQ.gif",
+    "rating":0
+  },
+  {
+    "show_id":10165,
+    "description":"Yuuko getting bitten by a dog.",
+    "sentiment": ["attack"],
+    "url": "https://data.whicdn.com/images/246943076/original.gif",
+    "rating":0
+  },
+  {
+    "show_id":10165,
+    "description":"Yuuko getting stuck on the train by herself.",
+    "sentiment": ["fail"],
+    "url": "https://24.media.tumblr.com/a4f4c72048838edb3a01176dbd373285/tumblr_mkhe65E8if1r8tyjfo1_500.gif",
+    "rating":0
+  },
+  {
+    "show_id":10165,
+    "description":"Yuuko banging on the floor, refusing to study.",
+    "sentiment": ["bored"],
+    "url": "https://i.pinimg.com/originals/43/a7/a4/43a7a4a7f681bc92671bad2b7bcdf21f.gif",
+    "rating":0
+  },
+  {
+    "show_id":4224,
+    "description":"Taiga slouching on her desk.",
+    "sentiment": ["bored"],
+    "url": "https://i.imgur.com/EzAWv47.gif",
+    "rating":0
+  },
+  {
+    "show_id":15911,
+    "description":"Yukari stroking a computer monitor.",
+    "sentiment": ["bored"],
+    "url": "https://mrwgifs.com/wp-content/uploads/2014/05/Bored-Girl-In-Yuyushiki-Anime-Playing-With-a-Computer-Screen.gif",
+    "rating":0
+  },
+  {
+    "show_id":1887,
+    "description":"Konata balancing a pencil on her nose.",
+    "sentiment": ["bored"],
+    "url": "https://media1.giphy.com/media/ASpfgIKxGtrHi/source.gif",
+    "rating":0
+  },
+  {
+    "show_id":12815,
+    "description":"Panda rolling off his bench while sleeping",
+    "sentiment": ["bored"],
+    "url": "https://data.whicdn.com/images/191120579/original.gif",
+    "rating":0
+  },
+  {
+    "show_id": 33206,
+    "description":"Tooru giving a thumbs up.",
+    "sentiment": ["thumbs up"],
+    "url": "https://media.tenor.com/images/e6561660fd1600c893c6f899678a9836/tenor.gif",
+    "rating":0
+  },
+  {
+    "show_id":30355,
+    "description":"Mao giving a thumbs up.",
+    "sentiment": ["thumbs up"],
+    "url": "https://i.gifer.com/Ojj8.gif",
+    "rating":0
+  },
+  {
+    "show_id":416,
+    "description":"Porco giving a thumbs up.",
+    "sentiment": ["thumbs up"],
+    "url": "https://24.media.tumblr.com/tumblr_llko428Rip1qehmh1o1_500.gif",
+    "rating":0
+  },
+  {
+    "show_id": 10495,
+    "description":"Kyoko giving a thumbs up.",
+    "sentiment": ["thumbs up"],
+    "url": "https://adventuresofclumsyrella.files.wordpress.com/2018/04/anime-thumbs-up-gif-25.gif?w=367",
+    "rating":0
+  },
+  {
+    "show_id": 30831,
+    "description":"The entire crew giving a thumbs up from the opening.",
+    "sentiment": ["thumbs up"],
+    "url": "https://i.gifer.com/5HhN.gif",
+    "rating":0
+  },
+  {
+    "show_id":1887,
+    "description":"The main crew giving a thumbs up from the opening.",
+    "sentiment": ["thumbs up"],
+    "url": "https://i.gifer.com/XluS.gif",
+    "rating":0
+  },
+  {
+    "show_id":16732,
+    "description":"Alice being glomped by Youko.",
+    "sentiment": ["love"],
+    "url": "https://gifimage.net/wp-content/uploads/2018/11/cute-anime-girl-hug-gif-3.gif",
+    "rating":0
+  },
+  {
+    "show_id": 21273,
+    "description":"Cocoa flipping a pancake that lands on Chino's face.",
+    "sentiment": ["fail"],
+    "url": "https://cdn48.picsart.com/173622129002202.gif",
+    "rating":0
+  },
+  {
+    "show_id": 21273,
+    "description":"Chino swaying back and forth during the dance recital.",
+    "sentiment": ["bored"],
+    "url": "https://i.pinimg.com/originals/ba/b3/9d/bab39de2e95b92fe1245835c34fbdd9f.gif",
+    "rating":0
+  },
+  {
+    "show_id":16353,
+    "description":"Riko hitting Natsuo with a paper fan.",
+    "sentiment": ["attack"],
+    "url": "https://data.whicdn.com/images/272774695/original.gif",
+    "rating":1
+  },
+  {
+    "show_id":22789,
+    "description":"Handa being harassed by Naru and Hina",
+    "sentiment": ["attack"],
+    "url": "https://media.giphy.com/media/50k273EVjZjNK/giphy.gif",
+    "rating":0
+  },
+  {
+    "show_id":12291,
+    "description":"Io feeding mochi to Tsumiki.",
+    "sentiment": ["eating","love"],
+    "url": "https://31.media.tumblr.com/b7bba9fdfb521e5fbd26a53c9092de43/tumblr_mruj12y6TL1r922azo1_500.gif",
+    "rating":0
+  },
+  {
+    "show_id":12291,
+    "description":"Mayoi in a bear suit chasing Hime.",
+    "sentiment": ["attack"],
+    "url": "https://lenarosaliefrances.files.wordpress.com/2014/08/pedobear_acchi_kocchi_584.gif",
+    "rating":0
+  },
+  {
+    "show_name": "Chuunibyou",
+    "sentiment": ["fail"],
+    "url": "https://i.pinimg.com/originals/24/04/c9/2404c907f1daaa77a07eb8ca97554ecd.gif"
+  },
+  {
+    "show_name": "Yuru Yuri",
+    "sentiment": ["fail"],
+    "url": "https://media.tenor.com/images/c046536502567333819dc324c75e765d/tenor.gif"
+  },
+  {
+    "show_name": "K-on",
+    "sentiment": ["attack"],
+    "url": "https://media1.tenor.com/images/0258c0d29159494fd63eea0e001eda39/tenor.gif?itemid=4874936"
+  },
+  {
+    "show_name": "Nichijou",
+    "sentiment": ["fail"],
+    "url": "https://image.myanimelist.net/ui/sefOExMnsDEhRAOFE2OLRfRw-X5yTWsrWkFiUf6zHQUXLINoSQoMrmRFYuB5FA5vf4L93xWKuGx2yN8uJo_QYw"
+  },
+  {
+    "show_name": "GochiUsa",
+    "sentiment": ["celebrate"],
+    "url": "https://media1.tenor.com/images/eb9f10615cf0965df45cacfef9fe88e6/tenor.gif?itemid=16351028"
+  },
+  {
+    "show_name": "Plastic nee-san",
+    "sentiment": ["attack"],
+    "url": "https://i.imgur.com/8pFCDrn.gif"
+  },
+  {
+    "show_name": "Non non biyori",
+    "sentiment": ["shrug"],
+    "url": "https://i.imgur.com/7PbuClC.gif"
+  },
+  {
+    "show_name": "Gintama",
+    "sentiment": ["eating"],
+    "url": "https://thumbs.gfycat.com/AnguishedBothBlackcrappie-small.gif"
+  },
+  {
+    "show_name": "Miss Kobayashi's Dragon Maid",
+    "sentiment": ["eating"],
+    "url": "https://media1.tenor.com/images/674df468be43c062b27b9c773528f54e/tenor.gif?itemid=8980006"
+  },
+  {
+    "show_name": "Hitoribocchi",
+    "sentiment": ["fail"],
+    "url": "https://thumbs.gfycat.com/PaleElatedBellsnake-size_restricted.gif"
+  },
+  {
+    "show_name": "Hitoribocchi",
+    "sentiment": ["attack"],
+    "url": "https://i.imgur.com/Rkb0uV8.gif"
+  },
+  {
+    "show_name": "Lucky Star",
+    "sentiment": ["bored"],
+    "url": "https://i.imgur.com/y6IKiaR.gif"
+  },
+  {
+    "show_name": "Kyoukai no kanata",
+    "sentiment": ["love"],
+    "url": "https://i.imgur.com/Pcv65cs.gif"
+  },
+  {
+    "show_name": "Yuru camp",
+    "sentiment": ["relaxed"],
+    "url": "https://i.imgur.com/V7iDsWU.gif"
+  },
+  {
+    "show_name": "Non non biyori",
+    "sentiment": ["celebrate"],
+    "url": "https://steamuserimages-a.akamaihd.net/ugc/431571327805824751/01B63867EF98F0125905037E0A37F03A1E66D79D/"
+  },
+  {
+    "show_name": "Non non biyori",
+    "sentiment": ["crying"],
+    "url": "https://66.media.tumblr.com/5c975b28495e8524499eeb9cf9297255/tumblr_p76z0heVxD1uhe17yo1_400.gifv"
+  },
+  {
+    "show_name": "Non non biyori",
+    "sentiment": ["celebrate"],
+    "url": "https://pa1.narvii.com/5899/5b011f85f812182106d555e1aed048621533826d_00.gif"
+  },
+  {
+    "show_name": "Lucky Star",
+    "sentiment": ["celebrate"],
+    "url": "https://data.whicdn.com/images/309879942/original.gif?t=1522457127"
+  },
+  {
+    "show_name": "Lucky Star",
+    "sentiment": ["love"],
+    "url": "https://i.kym-cdn.com/photos/images/original/000/790/805/efe.gif"
+  },
+  {
+    "show_name": "Lucky Star",
+    "sentiment": ["fail"],
+    "url": "https://steamuserimages-a.akamaihd.net/ugc/41975715024346550/0FBE41F49F6D3C59134D4D80D26BED7B095CB1F8/"
+  },
+  {
+    "show_name": "Lucky Star",
+    "sentiment": ["celebrate"],
+    "url": "https://24.media.tumblr.com/cd80262a2cc28ad62ff56d656405cfd4/tumblr_mrkp9abGcZ1sq9yswo1_500.gif"
+  },
+  {
+    "show_name": "Yuru camp",
+    "sentiment": ["fail"],
+    "url": "https://66.media.tumblr.com/0590ed7e83fc28a5257f244d6f10eac2/tumblr_p4bymqDjkb1tx45yjo1_400.gifv"
+  },
+  {
+    "show_name": "Shirokuma Cafe",
+    "sentiment": ["eating"],
+    "url": "https://38.media.tumblr.com/543fc4f39fd25035ea8dd9fcae4de0bc/tumblr_n57l6qso421rb2cnyo1_500.gif"
+  },
+  {
+    "show_name": "Shirokuma Cafe",
+    "sentiment": ["fail"],
+    "url": "https://i.imgur.com/jJZoCQw.gif"
+  },
+  {
+    "show_name": "Shirokuma Cafe",
+    "sentiment": ["relaxed"],
+    "url": "https://welcometobridgetown.files.wordpress.com/2018/10/polar-bear-cafe-relaxing.gif"
+  },
+  {
+    "show_name": "Love Lab",
+    "sentiment": ["excited"],
+    "url": "https://media0.giphy.com/media/JXibbAa7ysN9K/source.gif"
+  },
+  {
+    "show_name": "Re:Zero",
+    "sentiment": ["celebrate"],
+    "url": "https://media4.giphy.com/media/10p5ICVJF5IjxC/giphy.gif"
+  },
+  {
+    "show_name": "Love Lab",
+    "sentiment": ["thumbs up"],
+    "url": "https://media1.tenor.com/images/f8539f656d2ed90be7cd3bbe95d263d2/tenor.gif?itemid=6015959"
+  },
+  {
+    "show_name": "Chuunibyou",
+    "sentiment": ["attack"],
+    "url": "https://emmaslaysdragons.files.wordpress.com/2014/07/ihkmvnb5qiyry.gif"
+  },
+  {
+    "show_name": "Barakamon",
+    "sentiment": ["attack"],
+    "url": "https://media1.tenor.com/images/74986bcbee5c4121fecac94c59502578/tenor.gif?itemid=4991199"
+  },
+  {
+    "show_name": "Toradora",
+    "sentiment": ["excited"],
+    "url": "https://media3.giphy.com/media/3Cm8cxtSHqu6Q/source.gif"
+  },
+  {
+    "show_name": "Miss Kobayashi's Dragon Maid",
+    "sentiment": ["excited"],
+    "url": "https://media1.tenor.com/images/1f31cea234ea925f59260e4fe679457c/tenor.gif?itemid=8037671"
+  },
+  {
+    "show_name": "Yuru Yuri",
+    "sentiment": ["fail"],
+    "url": "https://66.media.tumblr.com/a8ba6c71b3050f3c08446c953663f2b6/tumblr_oekibpb6ib1vveadmo1_400.gifv"
+  },
+  {
+    "show_name": "GochiUsa",
+    "sentiment": ["love"],
+    "url": "https://giffiles.alphacoders.com/184/184289.gif"
+  },
+  {
+    "show_name": "Aria the Animation",
+    "sentiment": ["attack"],
+    "url": "https://media1.tenor.com/images/71b5acf53aeb299108f6e632709efbbc/tenor.gif?itemid=10632816"
+  },
+  {
+    "show_name": "Kiniro Mosaic",
+    "sentiment": ["love"],
+    "url": "https://media1.tenor.com/images/4ba5c04950f4a7dfc18646d372619212/tenor.gif?itemid=14566836"
+  }
+]
