@@ -3,7 +3,8 @@
 
 library(jsonlite)
 ref <- fromJSON("reference.json", simplifyVector=FALSE)
-host <- "."
+host <- "api"
+dir.create(host, showWarnings=FALSE)
 
 # Deploying the /entry endpoint.
 entry.path <- file.path(host, "entry")
