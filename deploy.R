@@ -62,8 +62,8 @@ entry.by.rating <- split(seq_along(rating), rating)
 rating.path <- file.path(host, "rating")
 unlink(rating.path, recursive=TRUE)
 dir.create(rating.path, showWarnings=FALSE)
-for (s in names(entry.by.rating)) {
+for (s in as.character(0:4)) {
     target <- file.path(rating.path, s)
     dir.create(target, showWarnings=FALSE)
-    write(toJSON(entry.by.rating[[s]], pretty=TRUE), file.path(target, "index.json"))
+    write(toJSON(as.integer(entry.by.rating[[s]]), pretty=TRUE), file.path(target, "index.json"))
 }
