@@ -499,8 +499,120 @@
   {
     "show_id":6213,
     "description":"Kuroko hitting her head on the table.",
-    "sentiment":["fail"],
+    "sentiment":["fail","shock"],
     "url":"https://media1.tenor.com/images/f478dc907337344dd0f371f0ededf6b5/tenor.gif?itemid=5659602",
+    "rating":0
+  },
+  {
+    "show_id":16011,
+    "description":"Harutora shaking Kon in class.",
+    "sentiment":["attack"],
+    "url":"https://i.pinimg.com/originals/df/3e/20/df3e20a5bc34b3b125c991dd31c1c49b.gif",
+    "rating":0
+  },
+  {
+    "show_id":16011,
+    "description":"Kon reacting to news about Harutora's personal life.",
+    "sentiment":["shock"],
+    "url":"https://33.media.tumblr.com/ce43754b2d0998ff3ff56edcc0003f1f/tumblr_nev0nwp4oU1thjidko7_500.gif",
+    "rating":0
+  },
+  {
+    "show_id": 5680,
+    "description":"A shocked Mio. Or embarrassed, it's hard to tell.",
+    "sentiment":["shock"],
+    "url":"https://media.giphy.com/media/93c09w31Ys65O/giphy.gif",
+    "rating":0
+  },
+  {
+    "show_id":31953,
+    "description":"Hifumi eventually being surprised.",
+    "sentiment":["shock"],
+    "url":"https://media.tenor.com/images/7326003bb61c2d15751a4f4200ffdf78/tenor.gif",
+    "rating":0
+  },
+  {
+    "show_id":16742,
+    "description":"Tomoko struggling to understand normie scum.",
+    "sentiment":["shock"],
+    "url":"https://media3.giphy.com/media/13lRBLnBpXXsS4/giphy.gif",
+    "rating":0
+  },
+  {
+    "show_id": 5680,
+    "description":"Just can't get enough of a surprised Mio.",
+    "sentiment":["shock"],
+    "url":"https://cdn.lowgif.com/full/a2f3bead4dc1030e-surprised-anime-gif-7-gif-images-download.gif",
+    "rating":0
+  },
+  {
+    "show_id":918,
+    "description":"A shocked Gin with his strawberry milk.",
+    "sentiment":["shock"],
+    "url":"https://i.pinimg.com/originals/e1/0d/69/e10d69ea47659c9a721f4882f01d34c3.gif",
+    "rating":0
+  },
+  {
+    "show_id": 20507,
+    "description":"Yato gets increasingly shocked.",
+    "sentiment":["shock"],
+    "url":"https://i.pinimg.com/originals/b2/1e/eb/b21eebc40e9fb6b52d08aaa60216bea3.gif",
+    "rating":0
+  },
+  {
+    "show_id":10165,
+    "description":"Hakase and Sakamoto getting blown away.",
+    "sentiment":["shock"],
+    "url":"https://66.media.tumblr.com/a04c45bcfcba78ebfdb314ece107d4f9/tumblr_nlimrubnk81r5xzspo1_500.gif",
+    "rating":0
+  },
+  {
+    "show_id":11843,
+    "description":"One of the unnamed girls slipping on ice.",
+    "sentiment":["fail"],
+    "url":"https://pa1.narvii.com/5626/aad3f0a8834d4f8aca24e93f57dadc7c708228ed_00.gif",
+    "rating":0
+  },
+  {
+    "show_id":11843,
+    "description":"Yoshitake throwing a cake into Hidenori's face.",
+    "sentiment":["attack"],
+    "url":"https://pa1.narvii.com/5774/e87420d9c9896a62d2baf1e8add4445287eea74f_00.gif",
+    "rating":0
+  },
+  {
+    "show_id":11843,
+    "description":"Hidenori shocked to the point of falling over.",
+    "sentiment":["shock"],
+    "url":"https://d310a9hpolx59w.cloudfront.net/users/avatars/23769342/mktpl_large/Daily_Life_of_High_School_Boys_Icon.gif",
+    "rating":0
+  },
+  {
+    "show_id":10165,
+    "description":"The principal tackling a deer.",
+    "sentiment":["attack"],
+    "url":"https://i.imgur.com/6rcwMdV.gif",
+    "rating":1
+  },
+  {
+    "show_id":10165,
+    "description":"The principal applying a German suplex to a deer.",
+    "sentiment":["attack"],
+    "url":"https://i.imgur.com/hl3qSQw.gif",
+    "rating":1
+  },
+  {
+    "show_id":11843,
+    "description":"Hidenori not being able to find his glasses.",
+    "sentiment":["fail"],
+    "url":"https://i.pinimg.com/originals/2e/e3/04/2ee3045b39a44a299aba33c84ebd9a87.gif",
+    "rating":0
+  },
+  {
+    "show_id":10165,
+    "description":"Mio versus the goat eating her fan art.",
+    "sentiment":["attack"],
+    "url":"https://25.media.tumblr.com/tumblr_m6r2fnOPGO1qzvtljo1_500.gif",
     "rating":0
   }
 ]

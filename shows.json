@@ -121,10 +121,26 @@
   },
   {
     "show_id":477,
-    "show_name":"Aria_the_Animation"
+    "show_name":"Aria the Animation"
   },
   {
     "show_id":6213,
     "show_name":"Toaru Kagaku no Railgun"
+  },
+  {
+    "show_id":16011,
+    "show_name":"Tokyo Ravens"
+  },
+  {
+    "show_id":31953,
+    "show_name":"New Game!"
+  },
+  {
+    "show_id":16742,
+    "show_name":"Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+  },
+  {
+    "show_id":11843,
+    "show_name":"Danshi Koukousei no Nichijou"
   }
 ]
