@@ -520,7 +520,7 @@
   {
     "show_id": 5680,
     "description":"A shocked Mio. Or embarrassed, it's hard to tell.",
-    "sentiment":["shock"],
+    "sentiment":["shock", "embarrassed"],
     "url":"https://media.giphy.com/media/93c09w31Ys65O/giphy.gif",
     "rating":0
   },
@@ -613,6 +613,34 @@
     "description":"Mio versus the goat eating her fan art.",
     "sentiment":["attack"],
     "url":"https://25.media.tumblr.com/tumblr_m6r2fnOPGO1qzvtljo1_500.gif",
+    "rating":0
+  },
+  {
+    "show_id": 21273,
+    "description":"Megu getting embarrassed after showing off her ballet skills.",
+    "sentiment":["embarrassed"],
+    "url":"https://image.myanimelist.net/ui/G-Sm6d0qIwQxUGHIp-m2WE-1TOHhknOmfeDDnovw1Bl_44FetLFCOkFIDXxLLQCvm0gYKqvOcuxyYXhaM9t5kzGnDtYhFeELAOeK2HCYT6aeNxAxJNUEeiur2_xac0PA",
+    "rating":0
+  },
+  {
+    "show_id": 21273,
+    "description":"Maya leveling up her broom skills.",
+    "sentiment":["attack"], 
+    "url":"https://i.kym-cdn.com/photos/images/original/000/998/300/fcb.gif",
+    "rating":0
+  },
+  {
+    "show_id":39292,
+    "description":"Karyl being force-fed bugs.",
+    "sentiment":["eating", "shock", "attack"],
+    "url":"https://66.media.tumblr.com/2f3ff5405e34ad16378ff9646b6d707d/9501590437e6a8cf-a9/s400x600/7d05badafc2fb1d68bcaffc51071828e75e9a568.gifv",
+    "rating":0
+  },
+  {
+    "show_id":39292,
+    "description":"More force-feeding of Karyl.",
+    "sentiment":["eating"],
+    "url":"https://66.media.tumblr.com/f4f4d6c60794dd3bd01a5b32a6577931/19be0f0cd3492e88-5e/s500x750/a8829ec85f7828d878f38b4d7cab5b5e2c580ffa.gifv",
     "rating":0
   }
 ]
