@@ -656,5 +656,33 @@
     "sentiment":["love", "attack"],
     "url":"https://i.kym-cdn.com/photos/images/newsfeed/001/448/225/063.gif",
     "rating":0
+  },
+  {
+    "show_id":37993,
+    "description":"Hana enjoying Miyako's curry-apple-omelette rice.",
+    "sentiment":["eating"],
+    "url":"https://media1.tenor.com/images/26a2a9c2d504544ecafa884d88079886/tenor.gif?itemid=14210721",
+    "rating":0
+  },
+  {
+    "show_id":10165,
+    "description":"Yuuko pressing the wrong end of her mechanical pencil.",
+    "sentiment":["fail"],
+    "url":"https://66.media.tumblr.com/d2fe289d715e7f5bdaaab43044f46aae/tumblr_mgjpmthAs61r8cfqxo1_400.gifv",
+    "rating":0
+  },
+  {
+    "show_id": 10495,
+    "description":"Akari face-planting into the camera.",
+    "sentiment":["fail"],
+    "url":"https://66.media.tumblr.com/7ade3edceb007ddcbc97444066e69269/tumblr_o85vjot4FM1vveadmo1_400.gifv",
+    "rating":0
+  },
+  {
+    "show_id":30276,
+    "description":"Saitama having lunch on behalf of Sonic.",
+    "sentiment":["attack", "eating"],
+    "url":"https://i.pinimg.com/originals/95/46/ea/9546eaac49de1c64662e2306191d35ce.gif",
+    "rating":1
   }
 ]
