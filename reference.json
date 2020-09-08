@@ -57,7 +57,7 @@
   },
   {
     "show_id": 2167,
-    "description":"Yushio trying to eat a piece of sushi.",
+    "description":"Ushio trying to eat a piece of sushi.",
     "sentiment": ["eating", "fail"],
     "url": "https://media.giphy.com/media/moeMypqJLoS2s/giphy.gif",
     "rating":0
@@ -665,6 +665,27 @@
     "rating":0
   },
   {
+    "show_id":37993,
+    "description":"Hana enjoying Miyako's cake.",
+    "sentiment":["eating"],
+    "url":"https://i.pinimg.com/originals/a7/53/5b/a7535bd81b0299dfaf11357adfefd0d4.gif",
+    "rating":0
+  },
+  {
+    "show_id":33489,
+    "description":"Akko falling asleep in class",
+    "sentiment":["bored"],
+    "url":"https://37.media.tumblr.com/3166729c74d63823a194d10f00dafd2a/tumblr_mklh92lxiV1ro7l7uo1_500.gif",
+    "rating":0
+  },
+  {
+    "show_id":33489,
+    "description":"Sucy messing with a sleeping Akko during class.",
+    "sentiment":["bored","attack"],
+    "url":"https://lh3.googleusercontent.com/proxy/rpZAtNgMZ4IDGUKdQC5qi9cLd_GVLSfpT3O5ylfdMJvrBgw--4tbT9fkrfithhev94yGHErQArj5W9o93XOHnoOeV4qjbUICzXQxXJdiXqNCCxwJ-a5sKNzBep1CrhuJngHyOnZFE6FfGsY0Hv6kThvF8F5srIBpye_LonQPJbl_UBFOuvu71g",
+    "rating":0
+  },
+  {
     "show_id":10165,
     "description":"Yuuko pressing the wrong end of her mechanical pencil.",
     "sentiment":["fail"],
@@ -684,5 +705,41 @@
     "sentiment":["attack", "eating"],
     "url":"https://i.pinimg.com/originals/95/46/ea/9546eaac49de1c64662e2306191d35ce.gif",
     "rating":1
+  },
+  {
+    "show_id": 2167,
+    "description":"Fuuko giving the thumbs-up.",
+    "sentiment":["thumbs_up"],
+    "url":"https://78.media.tumblr.com/tumblr_m4dr283VoH1rpc3vlo1_r1_500.gif",
+    "rating":0
+  },
+  {
+    "show_id": 2167,
+    "description":"Tomoya and Fuuko throwing down.",
+    "sentiment":["attack"],
+    "url":"https://media1.tenor.com/images/10737a5037e9588b8847f2077d07d306/tenor.gif?itemid=14835806",
+    "rating":0
+  },
+  {
+    "show_id": 2167,
+    "description":"Fuuko giving Sunohara a face massage.",
+    "sentiment":["attack"],
+    "url":"https://media1.tenor.com/images/70264322699f85c01f01445c2d7b32e4/tenor.gif?itemid=14835803",
+    "rating":0
+  },
+  {
+    "show_id":22789,
+    "description":"Handa giving it to an art critic.",
+    "sentiment":["attack"],
+    "url":"https://pa1.narvii.com/5766/3c49602654826fa7b0b52090e2438306fcba7b19_hq.gif",
+    "rating":0
+  },
+  {
+    "show_id":
+    "description":"Umaru failing to catch a bottle of Coke.",
+    "sentiment":["fail"],
+    "url":"https://i2.wp.com/www.spasticbastard.com/wp-content/uploads/2019/03/ezgif-5-427aaab6b2d7.gif?resize=480%2C270&ssl=1",
+    "rating":0
+
   }
 ]
