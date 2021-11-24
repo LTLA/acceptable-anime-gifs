@@ -1,0 +1,29 @@
+on: [push, pull_request]
+    
+name: validate-metadata
+
+jobs:
+  validate-metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Fetch the formatter
+        uses: dawidd6/action-download-artifact@v2
+        with:
+           github_token: ${{secrets.GITHUB_TOKEN}}
+           workflow: build-binaries.yaml
+           name: formatter
+           repo: LTLA/anime-gif-formatter
+      - name: Run the formatter
+        run: |
+            chmod 755 anime-gif-formatter
+            ./anime-gif-formatter -dir registry
+      - name: Publish manifests
+        if: github.ref == 'refs/heads/master'
+        uses: actions/upload-artifact@v2
+        with:
+          name: formatted
+          path: |
+            shows.json
+            gifs.json
