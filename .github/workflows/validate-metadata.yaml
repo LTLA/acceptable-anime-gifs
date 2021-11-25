@@ -8,22 +8,18 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
-      - name: Fetch the formatter
-        uses: dawidd6/action-download-artifact@v2
-        with:
-           github_token: ${{secrets.GITHUB_TOKEN}}
-           workflow: build-binaries.yaml
-           name: formatter
-           repo: LTLA/anime-gif-formatter
-      - name: Run the formatter
+      - name: Run the validator
         run: |
-            chmod 755 anime-gif-formatter
-            ./anime-gif-formatter -dir registry
+            curl -L https://github.com/LTLA/acceptable-anime-gifs-validator/releases/download/latest/validator > validator
+            chmod 755 validator
+            ./validator -dir registry
       - name: Publish manifests
+        uses: ncipollo/release-action@v1
         if: github.ref == 'refs/heads/master'
-        uses: actions/upload-artifact@v2
         with:
-          name: formatted
-          path: |
-            shows.json
-            gifs.json
+          allowUpdates: true
+          removeArtifacts: true
+          artifacts: "gifs.json,shows.json"
+          name: latest
+          tag: latest
+          body: "Formatted manifests for all GIFs and shows."
