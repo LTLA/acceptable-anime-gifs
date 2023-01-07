@@ -1,0 +1,21 @@
+on:
+  workflow_run:
+    workflows: 
+      - "Validate metadata"
+    branches:
+      - master
+    types: 
+      - completed
+
+name: Rebuild index
+
+jobs:
+  rebuild-index:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Rebuild index
+        run: |
+          curl -X PUT https://anime-gifs.aaron-lun.workers.dev/index -H "Authorization: Bearer ${INDEX_SECRET}"
+        env:
+          INDEX_SECRET: ${{ secrets.INDEX_SECRET }}

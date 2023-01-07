@@ -1,18 +1,20 @@
 on: [push, pull_request]
     
-name: validate-metadata
+name: Validate metadata
 
 jobs:
   validate-metadata:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+
       - name: Run the validator
         run: |
             curl -L https://github.com/LTLA/acceptable-anime-gifs-validator/releases/download/latest/validator > validator
             chmod 755 validator
             ./validator -dir registry
+
       - name: Publish manifests
         uses: ncipollo/release-action@v1
         if: github.ref == 'refs/heads/master'
